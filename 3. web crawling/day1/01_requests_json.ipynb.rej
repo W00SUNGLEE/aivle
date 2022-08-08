@@ -1,0 +1,10 @@
+diff a/3. web crawling/day1/01_requests_json.ipynb b/3. web crawling/day1/01_requests_json.ipynb	(rejected hunks)
+@@ -478,7 +478,7 @@
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 119,
++   "execution_count": 1,
+    "id": "45bfddc6-bedb-4191-8452-bc543ade4496",
+    "metadata": {},
+    "outputs": [],
