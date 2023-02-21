@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <title>04-04</title>
+    <script type="text/javascript">
+      var p1 = { name: "홍길동", age: 20, email: "gdhong@gmail.com" };
+      p1.getInfo = () => {
+        return this.name + "님의 나이 : " + this.age;
+      };
+
+      for (var k in p1) {
+        console.log(k + " ---> " + p1[k]);
+      }
+    </script>
+  </head>
+  <body></body>
+</html>
